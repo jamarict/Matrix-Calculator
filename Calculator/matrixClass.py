@@ -403,4 +403,3 @@ def removeRowCol(L, row, col):
         for rowIndex in range(len(N)):
             N[rowIndex].pop(col)
     return N
-
